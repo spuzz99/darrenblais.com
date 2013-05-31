@@ -1,0 +1,5 @@
+180.76.5.52 - - [30/Jan/2013:15:58:40 -0600] "GET /robots.txt HTTP/1.1" 404 3354 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2"
+61.19.246.97 - - [30/Jan/2013:18:33:43 -0600] "GET / HTTP/1.1" 200 4102 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+66.68.187.20 - - [30/Jan/2013:21:55:26 -0600] "GET / HTTP/1.1" 200 4102 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:18.0) Gecko/20100101 Firefox/18.0"
+66.68.187.20 - - [30/Jan/2013:21:55:27 -0600] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:18.0) Gecko/20100101 Firefox/18.0"
+66.68.187.20 - - [30/Jan/2013:21:55:27 -0600] "GET /favicon.ico HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:18.0) Gecko/20100101 Firefox/18.0"

@@ -1,0 +1,319 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201301 will be lost/reset.
+# Last config file used to build this data file was /home/spuzz99/tmp/awstats/awstats.darrenblais.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2008                
+POS_TIME 2685                
+POS_VISITOR 6776                
+POS_DAY 7591                
+POS_DOMAIN 3292                
+POS_LOGIN 3593                
+POS_ROBOT 3748                
+POS_WORMS 4038                
+POS_EMAILSENDER 4169                
+POS_EMAILRECEIVER 4312                
+POS_SESSION 8250                
+POS_SIDER 8407                
+POS_FILETYPES 4447                
+POS_DOWNLOADS 4530                
+POS_OS 4578                
+POS_BROWSER 4688                
+POS_SCREENSIZE 4941                
+POS_UNKNOWNREFERER 5015                
+POS_UNKNOWNREFERERBROWSER 5292                
+POS_ORIGIN 5436                
+POS_SEREFERRALS 5570                
+POS_PAGEREFS 5727                
+POS_SEARCHWORDS 5875                
+POS_KEYWORDS 6027                
+POS_MISC 2349                
+POS_ERRORS 6086                
+POS_CLUSTER 3449                
+POS_SIDER_404 6185                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130130060146 44 6395 5899602209886
+FirstTime 20130101060612
+LastTime 20130130060138
+LastUpdate 20130130062423 44 0 44 0 0
+TotalVisits 45                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 19                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 5 8 18266
+1 1 1 4102 3 7 25722
+2 0 0 0 0 0 0
+3 0 0 0 3 6 22368
+4 0 0 0 1 2 7456
+5 1 1 4102 1 2 7456
+6 27 27 110754 495 525 1820614
+7 3 3 12306 57 63 220350
+8 0 0 0 3 6 14164
+9 1 1 4102 4 8 25722
+10 2 2 8204 4 7 18266
+11 4 4 16408 8 12 17518
+12 0 0 0 1 3 10810
+13 0 0 0 1 2 7456
+14 0 0 0 1 1 0
+15 1 1 4102 2 3 7456
+16 0 0 0 3 6 22368
+17 0 0 0 1 2 7456
+18 2 2 4102 1 3 10810
+19 3 3 8204 0 0 0
+20 1 1 4102 1 2 7456
+21 3 3 8204 5 7 23116
+22 0 0 0 1 4 14164
+23 0 0 0 3 5 14912
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 35 35 143570
+fr 7 7 16408
+de 3 3 12306
+ua 1 1 4102
+se 1 1 4102
+ca 1 1 4102
+ru 1 1 4102
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+spider 371 1501332 20130130060146 0
+googlebot 25 102550 20130129101641 0
+bot[\s_+:,\.\;\/\\-] 9 36918 20130128172816 0
+no_user_agent 3 12306 20130111220026 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 49 188692 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 1
+winme 1
+winlong 2
+win2003 1
+winnt 1
+Unknown 4
+linux 6
+win7 33
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 15
+safari5.0.3 1
+msie6.0 1
+firefox5.0 1
+chrome16.0.912.75 1
+mozilla 1
+firefox14.0.1 2
+msie7.0 1
+firefox3.0.6 1
+lynx 1
+msie9.0 31
+chrome18.0.1025.1634 1
+Unknown 2
+firefox15.0.1 1
+konqueror4.3 1
+opera9.80 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Python-urllib/2.7 20130116112747
+Lynx/2.8.6rel.4_libwww-FM/2.14_SSL-MM/1.4.1_OpenSSL/0.9.8g 20130102211837
+panscient.com 20130122112842
+Mozilla/3.0_(compatible;_Indy_Library) 20130107150626
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Python-urllib/2.7 20130116112747
+panscient.com 20130122112842
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 18
+From1 0 0
+From2 30 30
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 30 30
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 75 0
+404 201 670800
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 6
+/phpmyadmin/scripts/setup.php 1 http://DARRENBLAIS.COM/phpmyadmin/scripts/setup.php
+/login/. 30 -
+/robots.txt 50 -
+/th1s_1s_a_4o4.html 30 http://www.google.com/url
+/login/ 60 -
+/cPanel_magic_revision_1352794455/unprotected/cpanel/style_v2_optimized.css 30 http://www.google.com/url
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 19
+108.163.194.162 10 10 41020 20130130060138 20130130060138 /
+184.154.132.90 8 8 32816 20130128060918
+173.236.29.218 7 7 28714 20130125071948
+69.175.118.170 5 5 20510 20130124061124
+178.33.142.53 2 2 4102 20130110194949
+69.58.178.56 2 2 8204 20130116101042
+178.33.142.51 2 2 4102 20130105185257
+178.33.142.57 2 2 4102 20130102211838
+5.9.35.43 1 1 4102 20130107150626
+91.207.6.18 1 1 4102 20130130013205
+109.172.77.26 1 1 4102 20130118205444
+85.25.110.104 1 1 4102 20130103193302
+178.32.77.80 1 1 4102 20130117112452
+141.255.184.209 1 1 4102 20130118052605
+192.95.22.19 1 1 4102 20130124094335
+107.23.192.190 1 1 4102 20130118210408
+96.224.208.225 1 1 4102 20130122112842
+38.100.21.65 1 1 4102 20130112114709
+5.9.136.149 1 1 4102 20130116112747
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20130101 1 1 4102 1
+20130102 3 3 8204 2
+20130103 2 2 8204 2
+20130104 1 1 4102 1
+20130105 3 3 8204 2
+20130106 1 1 4102 1
+20130107 2 2 8204 2
+20130108 1 1 4102 1
+20130109 1 1 4102 1
+20130110 3 3 8204 2
+20130111 1 1 4102 1
+20130112 2 2 8204 2
+20130113 1 1 4102 1
+20130114 1 1 4102 1
+20130115 1 1 4102 1
+20130116 4 4 16408 3
+20130117 2 2 8204 2
+20130118 4 4 16408 4
+20130119 1 1 4102 1
+20130120 1 1 4102 1
+20130121 1 1 4102 1
+20130122 2 2 8204 2
+20130123 1 1 4102 1
+20130124 2 2 8204 2
+20130125 1 1 4102 1
+20130126 1 1 4102 1
+20130127 1 1 4102 1
+20130128 1 1 4102 1
+20130129 1 1 4102 1
+20130130 2 2 8204 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 43
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 49 188692 45 44
+END_SIDER

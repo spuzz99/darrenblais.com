@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	spuzz99:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2012.11.09.22.26.05;	author spuzz99;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2012.11.09.22.26.05;	author spuzz99;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@darren:x:874:959::/home/spuzz99/mail/darrenblais.com/darren:/usr/local/cpanel/bin/noshell
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

@@ -1,0 +1,150 @@
+body {
+font : 0.8em Verdana, Arial, Sans-Serif;
+line-height : 1.6em;
+margin : 10px 0 0 0;
+background : #fff;
+}
+
+fieldset { border: none; }
+
+a {
+color : #0066b3;
+background : inherit;
+}
+
+a:hover {
+color : #808080;
+background : inherit;
+}
+
+h1 {
+font : bold 2.2em Arial, Arial, Sans-Serif;
+color : #6c5735;
+padding : 0;
+margin : 0;
+}
+
+h2 {
+font : bold 1.2em Arial, Arial, Sans-Serif;
+padding : 0;
+margin : 0;
+}
+
+h3 {
+color: #317265;
+font : bold 1.2em Arial, Arial, Sans-Serif;
+padding : 0;
+margin : 0;
+}
+
+ul {
+padding : 0;
+margin : 0;
+}
+
+li {
+padding: 6px 0 0 0;
+list-style-type : none;
+}
+
+strong {
+font-weight : bold;
+color : #307986;
+}
+
+#logo {
+float : left;
+margin : 0 0 1em 1em;
+}
+
+#menu {
+float : right;
+margin : 0 .5em 0 0;
+}
+
+#menu img {
+border: none;
+}
+
+#menu li {
+display : inline;
+margin : 0 0 0 1.4em;
+}
+
+#menu li a.current {
+font-weight : bold;
+}
+
+#subheader {
+clear : both;
+background : #eee url('img/bar.png');
+color : #fff;
+padding : 0 0 0 15px;
+margin : 0 0 15px 0;
+height : 25px;
+line-height : 25px;
+}
+
+#breadcrumbs {
+float : left;
+}
+
+#breadcrumbs a {
+	color: white;
+}
+
+#wrap {
+margin : 0 auto;
+width : 95%;
+background : #fff;
+padding : 10px;
+}
+
+#left {
+float : left;
+width : 73%;
+padding : 0 0 0 1em;
+}
+
+#right {
+float : right;
+width : 25%;
+margin : 0 0 10px 0;
+}
+
+.box {
+border : 1px solid #ccc;
+padding : 1em;
+margin : 0 0 1em 0;
+}
+
+#footer {
+clear : both;
+border-top : 1px dotted #ccc;
+margin : 0 0 0 0;
+text-align : center;
+font-size : 0.8em;
+}
+
+.highlightWords {
+color: red;	
+}
+
+.fn {
+display:none;
+}
+
+input.delButton {
+    background-image: -moz-linear-gradient(center top , #FF0000, #CC0000);
+    border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.35) inset, 0 -1px 0 0 rgba(0, 0, 0, 0.2) inset;
+    color: rgba(255, 255, 255, 0.9);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0 7px 0 0;
+    padding: 5px 15px;
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.2);
+}
